@@ -1,0 +1,6 @@
+[submodule "Submodules/SubProject1"]
+	path = Submodules/SubProject1
+	url = https://github.com/AbdulBarakeh/SubProject1.git
+[submodule "Submodules/SubProject2"]
+	path = Submodules/SubProject2
+	url = https://github.com/AbdulBarakeh/SubProject2.git
